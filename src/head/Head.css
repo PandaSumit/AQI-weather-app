@@ -1,0 +1,22 @@
+.head-container {
+  background: #7a748b;
+  height: 45px;
+}
+
+.header {
+  background: #353142;
+  height: 45px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.header-text {
+  border-bottom: 2px solid #7a748b00;
+}
+
+.header-text:hover {
+  border-bottom: 2px solid #ffffff;
+  cursor: pointer;
+}
